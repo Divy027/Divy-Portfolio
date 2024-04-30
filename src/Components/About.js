@@ -75,6 +75,13 @@ const About = () => {
         </div>
         <br/>
 
+        <p> Solidity Security Principles<br/>
+        </p>
+        <div className="SkillLevel">
+          <div className="SkillLevelBar" style={{ width: "99%" }}></div>
+        </div>
+        <br/>
+
         <p> Frontend<br/>
         <span className="BracketText">(React.js, Tailwind CSS)</span>
          </p>
@@ -104,6 +111,7 @@ const About = () => {
         <div className="SkillLevel">
           <div className="SkillLevelBar" style={{ width: "99%" }}></div>
         </div>
+
     </div>
     </>
   )
