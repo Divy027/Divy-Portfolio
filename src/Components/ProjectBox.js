@@ -20,7 +20,7 @@ const  ProjectBox = ({projectPhoto, projectName}) => {
     Project5Desc:"This is the BasedHub TokenLaunchpad by 2x Solutions. I developed this dApp to enable users to create custom ERC20 tokens, conduct airdrops, and create liquidity pools directly from the frontend. I designed the smart contract to automate these processes for the user, simplifying token creation and management.",
     Project5Website:"https://token-launchpad-fe.vercel.app/launchpad",
 
-    Project6Desc:"This is the Telegram Start Arena Sniper Bot, designed to enable users to automatically snipe keys of Star Arena users directly from Telegram.",
+    Project6Desc:"This is the Telegram Stars Arena Sniper Bot, designed to enable users to automatically snipe keys of Star Arena users directly from Telegram.",
 
     Project7Desc: "This is the Jew Coin website on BaseChain, featuring a comprehensive suite of functionalities. I've developed an ERC20 token, implemented a staking smart contract, and curated an NFT collection. Additionally, I've integrated metadata for enhanced token representation and utility.",
     Project7Website: "https://jewcoin.io/"
