@@ -22,8 +22,8 @@ const Projects = () => {
         <ProjectBox projectPhoto={Pro3} projectName="Project3" />
         <ProjectBox projectPhoto={Pro4} projectName="Project4" />
         <ProjectBox projectPhoto={Pro5} projectName="Project5" />
-        <ProjectBox projectPhoto={Pro6} projectName="Project6" />
         <ProjectBox projectPhoto={Pro7} projectName="Project7" />
+        <ProjectBox projectPhoto={Pro6} projectName="Project6" />
       </div>
 
     </div>
